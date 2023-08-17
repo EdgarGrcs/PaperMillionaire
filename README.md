@@ -1,5 +1,13 @@
-https://polygon.io/pricing?product=stocks
+
+Fullstack stock trading game:
 
 
-(best one yet)
-https://www.tiingo.com/about/pricing
+
+**What this website will offer**
+
+- Stock trading
+- Options trading
+- Leaderboard
+- stock tracking
+- live stock market simulation
+- play with paper money
