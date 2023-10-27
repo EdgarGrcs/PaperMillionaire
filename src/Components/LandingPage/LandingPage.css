@@ -3,7 +3,7 @@
     justify-content:center;
     align-items:center;
     height:70vh;
-    width:85vw;
+    width:vw;
     border-radius:40px;
     box-shadow: 0 0 10px #ccc;
 }
@@ -15,4 +15,9 @@
     margin-right: auto;
     border-radius:40px;
     box-shadow: 0 0 10px #ccc;
+    align-items:center;
+    justify-content:center;
+    border:2px solid red;
+    display: flex;
+    font-weight:bold;
 }
